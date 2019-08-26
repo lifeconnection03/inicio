@@ -1451,6 +1451,30 @@ body {
 .cid-rpJKrKmvp1 .mbr-text {
   color: #232323;
 }
+.cid-rAiniJeq23 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-rAiniJeq23 .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rAiniJeq23 .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-rAiniJeq23 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rAiniJeq23 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rpJMLIRl3Q {
   padding-top: 60px;
   padding-bottom: 45px;
@@ -1710,6 +1734,11 @@ body {
   .cid-rpKljCKDIf .btn {
     font-size: 20px !important;
   }
+}
+.cid-rpKm8JGivs {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
 }
 .cid-rpKm8JGivs {
   padding-top: 30px;
